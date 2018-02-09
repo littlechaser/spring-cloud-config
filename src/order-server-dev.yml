@@ -1,0 +1,11 @@
+reids:
+  ip: 127.0.0.1
+  port: 6379
+  auth: allen321
+
+db:
+  url: 127.0.0.1
+  port: 3306
+  username: allen
+  password: allen321
+  driver-class: com.mysql.jdbc.Driver

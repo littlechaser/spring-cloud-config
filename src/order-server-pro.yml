@@ -1,0 +1,11 @@
+reids:
+  ip: 10.104.14.253
+  port: 6379
+  auth: allen123
+
+db:
+  url: 10.104.14.253
+  port: 3306
+  username: allen
+  password: allen123
+  driver-class: com.mysql.jdbc.Driver
