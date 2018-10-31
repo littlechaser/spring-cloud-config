@@ -1,5 +1,5 @@
-reids:
-  ip: 10.104.14.253
+redis:
+  ip: localhost
   port: 6379
   auth: allen123
 
