@@ -1,5 +1,5 @@
 redis:
-  ip: gydfujyrtf7ui
+  ip: 121.155.18.1
   port: 6379
   auth: allen123
 
