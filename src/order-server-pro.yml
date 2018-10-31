@@ -1,5 +1,5 @@
 redis:
-  ip: localhost
+  ip: gydfujyrtf7ui
   port: 6379
   auth: allen123
 
