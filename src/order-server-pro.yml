@@ -1,10 +1,10 @@
 redis:
-  ip: 111.111.111.222
+  ip: 111.111.111.333
   port: 6379
   auth: allen123
 
 db:
-  url: 10.104.14.253
+  url: 122.122.133.13
   port: 3306
   username: allen
   password: allen123
